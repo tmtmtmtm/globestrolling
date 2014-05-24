@@ -1,0 +1,12 @@
+---
+layout: none
+---
+{
+  "type": "LineString",
+  "coordinates": [
+{% for location in page.trip %}{% assign islast = forloop.last %}{% for known in site.data.locations %}{% if location == known.place %}    [ {{ known.coordinates.lon }}, {{ known.coordinates.lat }} ]{% unless islast %},{% endunless %}
+{% endif %}{% endfor %}{% endfor %}
+  ]
+}
+
+

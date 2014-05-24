@@ -1,0 +1,11 @@
+---
+layout: default
+---
+ 
+<ul>
+{% for location in site.data.locations %}
+  <li>
+  From: {{ location.place }} - [ {{ location.coordinates.lat }}, {{ location.coordinates.lon }} ]
+  </li>
+{% endfor %}
+</ul>

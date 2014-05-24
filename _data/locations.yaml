@@ -1,0 +1,20 @@
+[
+  { "place": "SYD", "coordinates": { "lat": "-33.946111", "lon": "151.177222" } },
+  { "place": "Wollongong, NSW", "coordinates": { "lat": "-34.433056", "lon": "150.883056" } },
+  { "place": "Sutherland, NSW", "coordinates": { "lat": "-34.03314", "lon": "151.0583" } },
+  { "place": "Dapto, NSW", "coordinates": { "lat": "-34.491667", "lon": "150.791667" } },
+  { "place": "Kiama, NSW", "coordinates": { "lat": "-34.670833", "lon": "150.854167" } },
+  { "place": "Gerringong, NSW", "coordinates": { "lat": "-34.75", "lon": "150.833333" } },
+  { "place": "Berry, NSW", "coordinates": { "lat": "-34.775278", "lon": "150.693889" } },
+  { "place": "Nowra, NSW", "coordinates": { "lat": "-34.883333", "lon": "150.6" } },
+  { "place": "Tomerong, NSW", "coordinates": { "lat": "-35.066667", "lon": "150.583333" } },
+  { "place": "Wandandian, NSW", "coordinates": { "lat": "-35.083333", "lon": "150.5" } },
+  { "place": "Conjola, NSW", "coordinates": { "lat": "-35.249167", "lon": "150.475833" } },
+  { "place": "Milton, NSW", "coordinates": { "lat": "-35.316667", "lon": "150.433333" } },
+  { "place": "Ulladulla, NSW", "coordinates": { "lat": "-35.348611", "lon": "150.467778" } }, 
+  { "place": "Batemans Bay, NSW", "coordinates": {"lat": "-35.708056", "lon": "150.174444" } },
+  { "place": "Mogo, NSW", "coordinates": {"lat": "-35.783333", "lon": "150.133333" } },
+  { "place": "Moruya, NSW", "coordinates": { "lat": "-35.911111", "lon": "150.080556" } },
+  { "place": "Bodalla, NSW", "coordinates": {"lat": "-36.1", "lon": "150.05" } },
+]
+
