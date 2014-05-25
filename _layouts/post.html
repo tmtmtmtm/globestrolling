@@ -9,11 +9,11 @@ layout: default
   {% for known in site.data.locations %}
     {% if location == known.place %}
     {% assign found = true %}
-    <li> {{location}} = [ {{ known.coordinates.lat }}, {{ known.coordinates.lon }} ] </li>
+    <li> <a href="http://en.wikipedia.org/wiki/{{ location | url_escape }}">{{location}}</a> = [ {{ known.coordinates.lat }}, {{ known.coordinates.lon }} ] </li>
     {% endif %}
   {% endfor %}
   {% unless found %}
-    <li> {{location}} = UNKNOWN </li>
+    <li> <a href="http://en.wikipedia.org/wiki/{{ location | url_escape }}">{{location}}</a> = UNKNOWN </li>
   {% endunless %}
 {% endfor %}
 </ol>
