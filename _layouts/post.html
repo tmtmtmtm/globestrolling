@@ -4,35 +4,9 @@ leaflet: true
 ---
 
 <h3>{{ page.title }}</h3>
-<ol>
-{% for location in page.trip %}
-  {% assign found = false %}
-  {% for known in site.data.locations %}
-    {% if location == known.place %}
-    {% assign found = true %}
-    <li> <a href="http://en.wikipedia.org/wiki/{{ location | url_escape }}">{{location}}</a> = [ {{ known.coordinates.lat }}, {{ known.coordinates.lon }} ] </li>
-    {% endif %}
-  {% endfor %}
-  {% unless found %}
-    <li> <a href="http://en.wikipedia.org/wiki/{{ location | url_escape }}">{{location}}</a> = UNKNOWN </li>
-  {% endunless %}
-{% endfor %}
-</ol>
+<h4>{{ page.date | date_to_string }}</h4>
 
-<hr />
-{% for location in page.trip %}
-  {% assign found = false %}
-  {% for known in site.data.locations %}
-    {% if location == known.place %}
-      {% assign found = true %}
-    {% endif %}
-  {% endfor %}
-  {% unless found %}
-  <pre>./bin/geo_lookup.rb {{ location | url_escape }}</pre>
-  {% endunless %}
-{% endfor %}
-
-<pre>
+{% capture geojson %}
 {
   "type": "LineString",
   "coordinates": [
@@ -40,7 +14,7 @@ leaflet: true
 {% endif %}{% endfor %}{% endfor %}
   ]
 }
-</pre>
+{% endcapture %}
 
 <div id="map-container">
 	<div id="map"></div>
@@ -61,5 +35,22 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 </script>
+
+<ol>
+  {% for location in page.trip %}<li>{{location}}{% unless forloop.last %} → {% endunless %}</li>{% endfor %}
+</ol>
+
+<hr />
+{% for location in page.trip %}
+  {% assign found = false %}
+  {% for known in site.data.locations %}
+    {% if location == known.place %}
+      {% assign found = true %}
+    {% endif %}
+  {% endfor %}
+  {% unless found %}
+  <pre>./bin/geo_lookup.rb {{ location | url_escape }}</pre>
+  {% endunless %}
+{% endfor %}
 
 
