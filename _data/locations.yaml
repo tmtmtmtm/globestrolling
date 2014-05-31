@@ -74,6 +74,29 @@
   { "place": "San Martin, California", "region": "US-CA", "coordinates": { "lat": "37.087778", "lon": "-121.6" } }, 
   { "place": "Sunnyvale, California", "region": "US-CA", "coordinates": { "lat": "37.371111", "lon": "-122.0375" } },
   { "place": "Blossom Hill, California", "region": "US-CA", "coordinates": { "lat": "37.2525", "lon": "-121.797778" } },
+  { "place": "Palo Alto, California", "region": "US-CA", "coordinates": { "lat": "37.4418834", "lon": "-122.1430195" } },
+  { "place": "Stanford, California", "region": "US-CA", "coordinates": { "lat": "37.42410599999999", "lon": "-122.1660756" } },
+  { "place": "Los Altos Hills, California", "region": "US-CA", "coordinates": { "lat": "37.3796627", "lon": "-122.1374637" } },
+  { "place": "Sam McDonald County Park, California", "region": "US-CA", "coordinates": { "lat": "37.2968781", "lon": "-122.2658638" } },
+  { "place": "Memorial County Park, California", "region": "US-CA", "coordinates": { "lat": "37.2763815", "lon": "-122.2965778" } },
+  { "place": "Foothills Open Space Preserve, California", "region": "US-CA", "coordinates": { "lat": "37.3511012", "lon": "-122.1731859" } },
+  { "place": "Pescadero, California", "region": "US-CA", "coordinates": { "lat": "37.2551636", "lon": "-122.3830152" } },
+  { "place": "Pescadero State Beach, California", "region": "US-CA", "coordinates": { "lat": "37.2540725", "lon": "-122.4155045" } },
+  { "place": "San Gregario State Beach, California", "region": "US-CA", "coordinates": { "lat": "37.322547", "lon": "-122.4022973" } },
+  { "place": "Half Moon Bay, California", "region": "US-CA", "coordinates": { "lat": "37.4635519", "lon": "-122.4285862" } },
+  { "place": "San Mateo, California", "region": "US-CA", "coordinates": { "lat": "37.5629917", "lon": "-122.3255254" } },
+  { "place": "Redwood City, California", "region": "US-CA", "coordinates": { "lat": "37.48521520000001", "lon": "-122.2363548" } },
+  { "place": "Menlo Park, California", "region": "US-CA", "coordinates": { "lat": "37.4529598", "lon": "-122.1817252" } },
+  { "place": "Skylawn Cemetary, California", "region": "US-CA", "coordinates": { "lat": "37.4972163", "lon": "-122.3717033" } },
+
+
+
+
+
+  
+
+
+    
 
 ]
 
