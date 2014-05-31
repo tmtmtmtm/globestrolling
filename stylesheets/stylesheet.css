@@ -346,6 +346,8 @@ footer a:hover {
   text-align: center;
 }
 
+#map { height: 380px; }
+
 /* #Media Queries
 ================================================== */
 
