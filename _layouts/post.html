@@ -37,7 +37,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 </script>
 
 <ol>
-  {% for location in page.trip %}<li>{{location}}{% unless forloop.last %} → {% endunless %}</li>{% endfor %}
+  {% for location in page.trip %}<li>{{location | split:"," | first}}{% unless forloop.last %} → {% endunless %}</li>{% endfor %}
 </ol>
 
 <hr />
