@@ -5,7 +5,7 @@ trip:
   - TBU
   - Pelehake
   - Malapo
-  - Vaini
+  - Vaini, Tonga
   - Veitongo
   - "Ha'ateiho"
   - Pea, Tonga
