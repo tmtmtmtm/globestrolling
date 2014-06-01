@@ -17,6 +17,8 @@
   { "place": "Moruya, NSW", "region": "AU-NSW", "coordinates": { "lat": "-35.911111", "lon": "150.080556" } },
   { "place": "Bodalla, NSW", "region": "AU-NSW", "coordinates": {"lat": "-36.1", "lon": "150.05" } },
 
+  { "place": "LHR", "region": "GB-ENG", "coordinates": { "lat": "51.4700223", "lon": "-0.4542955" } },
+
   { "place": "Dunedin", "region": "NZ-OTA", "coordinates": { "lat": "-45.866667", "lon": "170.5" } },
   { "place": "Mosgiel", "region": "NZ-OTA", "coordinates": { "lat": "-45.866667", "lon": "170.35" } },
   { "place": "Milton, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-46.116667", "lon": "169.966667" } },
@@ -36,6 +38,7 @@
   { "place": "Palmerston, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-45.484026", "lon": "170.715265" } },
   { "place": "Waikouaiti", "region": "NZ-OTA", "coordinates": { "lat": "-45.594837", "lon": "170.672833" } },
 
+  { "place": "SFO", "region": "US-CA", "coordinates": { "lat": "37.615223", "lon": "-122.389979" } },
   { "place": "LAX", "region": "US-CA", "coordinates": { "lat": "33.9415889", "lon": "-118.40853" } },
   { "place": "Mountain View, CA", "region": "US-CA", "coordinates": { "lat": "37.389444", "lon": "-122.081944" } },
   { "place": "Fremont, CA", "region": "US-CA", "coordinates": { "lat": "37.548333", "lon": "-121.988611" } },
