@@ -2,25 +2,25 @@
 layout: post
 title: Santa Cruz
 trip:
-  - Mountain View, California
-  - Cupertino, California
-  - Saratoga, California
-  - Los Gatos, California
+  - Mountain View, CA
+  - Cupertino, CA
+  - Saratoga, CA
+  - Los Gatos, CA
   - Lexington Reservoir
   - Bear Creek Redwoods
-  - Scotts Valley, California
-  - Felton, California
-  - Santa Cruz, California
-  - Aptos, California
-  - Watsonville, California
-  - Gilroy, California
-  - San Martin, California
-  - Morgan Hill, California
-  - Blossom Hill, California
-  - Los Gatos, California
-  - Saratoga, California
-  - Cupertino, California
-  - Sunnyvale, California
-  - Mountain View, California
+  - Scotts Valley, CA
+  - Felton, CA
+  - Santa Cruz, CA
+  - Aptos, CA
+  - Watsonville, CA
+  - Gilroy, CA
+  - San Martin, CA
+  - Morgan Hill, CA
+  - Blossom Hill, CA
+  - Los Gatos, CA
+  - Saratoga, CA
+  - Cupertino, CA
+  - Sunnyvale, CA
+  - Mountain View, CA
 method: car
 ---
