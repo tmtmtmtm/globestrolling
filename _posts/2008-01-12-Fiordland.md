@@ -4,9 +4,9 @@ title: Fiordland
 trip:
   - Dunedin
   - Mosgiel
-  - Milton, New Zealand
-  - Balclutha, New Zealand
-  - Gore, New Zealand
+  - Milton, NZ
+  - Balclutha, NZ
+  - Gore, NZ
   - Mossburn
   - Te Anau
   - Te Anau Downs
@@ -14,14 +14,14 @@ trip:
   - Te Anau Downs
   - Te Anau
   - Mossburn
-  - Queenstown, New Zealand
+  - Queenstown, NZ
   - Arrowtown
-  - Cromwell, New Zealand
-  - Clyde, New Zealand
-  - Alexandra, New Zealand
+  - Cromwell, NZ
+  - Clyde, NZ
+  - Alexandra, NZ
   - Omakau
-  - Ranfurly, New Zealand
-  - Palmerston, New Zealand
+  - Ranfurly, NZ
+  - Palmerston, NZ
   - Waikouaiti
   - Dunedin
 method: car
