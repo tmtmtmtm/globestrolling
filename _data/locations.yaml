@@ -38,6 +38,16 @@
   { "place": "Palmerston, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-45.484026", "lon": "170.715265" } },
   { "place": "Waikouaiti", "region": "NZ-OTA", "coordinates": { "lat": "-45.594837", "lon": "170.672833" } },
 
+  { "place": "TBU", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.242525", "lon": "-175.142205" } },
+  { "place": "Pelehake", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.2170093", "lon": "-175.1395094" } },
+  { "place": "Malapo", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.2011031", "lon": "-175.155066" } },
+  { "place": "Veitongo", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.1856815", "lon": "-175.2140114" } },
+  { "place": "Vaini", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.1935", "lon": "-175.1751534" } },
+  { "place": "Ha'ateiho", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.179", "lon": "-175.23" } },
+  { "place": "Pea, Tonga", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.1729939", "lon": "-175.2386074" } },
+  { "place": "Fanga-'o-Pilolevu", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.1461957", "lon": "-175.2107743" } },
+  { "place": "Nuku'alofa", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.1333333", "lon": "-175.2" } },
+
   { "place": "SFO", "region": "US-CA", "coordinates": { "lat": "37.615223", "lon": "-122.389979" } },
   { "place": "LAX", "region": "US-CA", "coordinates": { "lat": "33.9415889", "lon": "-118.40853" } },
   { "place": "Mountain View, CA", "region": "US-CA", "coordinates": { "lat": "37.389444", "lon": "-122.081944" } },
