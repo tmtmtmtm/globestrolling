@@ -136,5 +136,14 @@
   { "place": "Bear Creek Redwoods", "region": "US-CA", "coordinates": { "lat": "37.1803174", "lon": "-122.0041718" } },
   { "place": "LAX", "region": "US-CA", "coordinates": { "lat": "33.9415889", "lon": "-118.40853" } },
 
+  { "place": "APW", "region": "WS-Upolu", "coordinates": { "lat": "-13.83045", "lon": "-172.0081099" } },
+  { "place": "Apia", "region": "WS-Upolu", "coordinates": { "lat": "-13.8333333", "lon": "-171.75" } },
+  { "place": "Fasito'otai", "region": "WS-Upolu", "coordinates": { "lat": "-13.8283677", "lon": "-171.9664367" } },
+  { "place": "Fasito'outa", "region": "WS-Upolu", "coordinates": { "lat": "-13.812", "lon": "-171.941" } },
+  { "place": "Faleasiu", "region": "WS-Upolu", "coordinates": { "lat": "-13.8072222", "lon": "-171.9283333" } },
+  { "place": "Saleimoa", "region": "WS-Upolu", "coordinates": { "lat": "-13.7982691", "lon": "-171.8818453" } },
+  { "place": "Fale'ula", "region": "WS-Upolu", "coordinates": { "lat": "-13.7973358", "lon": "-171.8319995" } },
+  { "place": "Vaigaga", "region": "WS-Upolu", "coordinates": { "lat": "-13.824202", "lon": "-171.7971556" } },
+
 ]
 
