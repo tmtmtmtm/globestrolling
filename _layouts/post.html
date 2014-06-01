@@ -49,7 +49,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     {% endif %}
   {% endfor %}
   {% unless found %}
-  <pre>./bin/geo_lookup.rb {{ location | url_escape }}</pre>
+  <pre>./bin/geo_lookup.rb "{{ location | url_escape }}"</pre>
   {% endunless %}
 {% endfor %}
 
