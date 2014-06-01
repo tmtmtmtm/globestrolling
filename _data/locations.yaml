@@ -17,7 +17,17 @@
   { "place": "Moruya, NSW", "region": "AU-NSW", "coordinates": { "lat": "-35.911111", "lon": "150.080556" } },
   { "place": "Bodalla, NSW", "region": "AU-NSW", "coordinates": {"lat": "-36.1", "lon": "150.05" } },
 
+  { "place": "YYC", "region": "CA-AB", "coordinates": { "lat": "51.131471", "lon": "-114.010556" } },
+
+  { "place": "FRA", "region": "DE-HE", "coordinates": { "lat": "50.0379326", "lon": "8.562151799999999" } },
+
+  { "place": "CPH", "region": "DK-Capital Region of Denmark", "coordinates": { "lat": "55.6180236", "lon": "12.6507628" } },
+
+  { "place": "TLL", "region": "EE-Harju County", "coordinates": { "lat": "59.4163602", "lon": "24.8027384" } },
+
   { "place": "LHR", "region": "GB-ENG", "coordinates": { "lat": "51.4700223", "lon": "-0.4542955" } },
+
+  { "place": "RIX", "region": "LV", "coordinates": { "lat": "56.9226554", "lon": "23.9733129" } },
 
   { "place": "Dunedin", "region": "NZ-OTA", "coordinates": { "lat": "-45.866667", "lon": "170.5" } },
   { "place": "Mosgiel", "region": "NZ-OTA", "coordinates": { "lat": "-45.866667", "lon": "170.35" } },
@@ -37,6 +47,8 @@
   { "place": "Ranfurly, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-45.133333", "lon": "170.1" } },
   { "place": "Palmerston, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-45.484026", "lon": "170.715265" } },
   { "place": "Waikouaiti", "region": "NZ-OTA", "coordinates": { "lat": "-45.594837", "lon": "170.672833" } },
+
+  { "place": "WAW", "region": "PL-Masovian Voivodeship", "coordinates": { "lat": "52.1672369", "lon": "20.9678911" } },
 
   { "place": "TBU", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.242525", "lon": "-175.142205" } },
   { "place": "Pelehake", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.2170093", "lon": "-175.1395094" } },
@@ -68,9 +80,11 @@
   { "place": "Haveluliku, Tonga", "region": "TO-Tongatapu", "coordinates": { "lat": "-21.2044718", "lon": "-175.1041669" } },
   { "place": "Anahulu, Tonga", "region": "TO-", "coordinates": { "lat": "-21.2189404", "lon": "-175.1049372" } },
 
-
-  { "place": "SFO", "region": "US-CA", "coordinates": { "lat": "37.615223", "lon": "-122.389979" } },
+  { "place": "IAD", "region": "US-VA", "coordinates": { "lat": "38.953381", "lon": "-77.44771200000001" } },
+  { "place": "JFK", "region": "US-NY", "coordinates": { "lat": "40.6413111", "lon": "-73.77813909999999" } },
   { "place": "LAX", "region": "US-CA", "coordinates": { "lat": "33.9415889", "lon": "-118.40853" } },
+  { "place": "SEA", "region": "US-WA", "coordinates": { "lat": "47.44443", "lon": "-122.300497" } },
+  { "place": "SFO", "region": "US-CA", "coordinates": { "lat": "37.615223", "lon": "-122.389979" } },
   { "place": "Mountain View, CA", "region": "US-CA", "coordinates": { "lat": "37.389444", "lon": "-122.081944" } },
   { "place": "Fremont, CA", "region": "US-CA", "coordinates": { "lat": "37.548333", "lon": "-121.988611" } },
   { "place": "Pleasanton, CA", "region": "US-CA", "coordinates": { "lat": "37.6625", "lon": "-121.874722" } },
