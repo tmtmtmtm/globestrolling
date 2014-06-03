@@ -29,6 +29,9 @@
 
   { "place": "RIX", "region": "LV", "coordinates": { "lat": "56.9226554", "lon": "23.9733129" } },
 
+  { "place": "AKL", "region": "NZ-", "coordinates": { "lat": "-37.0082476", "lon": "174.7850358" } },
+  { "place": "DUD", "region": "NZ-Otago", "coordinates": { "lat": "-45.9258615", "lon": "170.2021681" } },
+  { "place": "WLG", "region": "NZ-Wellington", "coordinates": { "lat": "-41.3275941", "lon": "174.8075984" } },
   { "place": "Dunedin", "region": "NZ-OTA", "coordinates": { "lat": "-45.866667", "lon": "170.5" } },
   { "place": "Mosgiel", "region": "NZ-OTA", "coordinates": { "lat": "-45.866667", "lon": "170.35" } },
   { "place": "Milton, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-46.116667", "lon": "169.966667" } },
@@ -47,6 +50,9 @@
   { "place": "Ranfurly, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-45.133333", "lon": "170.1" } },
   { "place": "Palmerston, NZ", "region": "NZ-OTA", "coordinates": { "lat": "-45.484026", "lon": "170.715265" } },
   { "place": "Waikouaiti", "region": "NZ-OTA", "coordinates": { "lat": "-45.594837", "lon": "170.672833" } },
+  { "place": "Hampden, NZ", "region": "NZ-Otago", "coordinates": { "lat": "-45.3240359", "lon": "170.8174073" } },
+  { "place": "Herbert, NZ", "region": "NZ-Otago", "coordinates": { "lat": "-45.2262791", "lon": "170.782106" } },
+  { "place": "Oamuru, NZ", "region": "NZ-Otago", "coordinates": { "lat": "-45.0975118", "lon": "170.9704148" } },
 
   { "place": "WAW", "region": "PL-Masovian Voivodeship", "coordinates": { "lat": "52.1672369", "lon": "20.9678911" } },
 
